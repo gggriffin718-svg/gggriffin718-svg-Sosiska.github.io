@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Sosika.github.io/sitemap.xml  
